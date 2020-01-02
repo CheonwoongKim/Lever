@@ -16,21 +16,50 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansCJKkr-Regular",
-              "size": 18
+              "name": "NotoSansCJKkr-Bold",
+              "size": 24
             }
           },
           "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 27,
-            "minimumLineHeight": 27
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "NotoSansCJKkr-Regular",
+              "size": 16
+            }
+          },
+          "kerning": -0.5,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 19,
+        "location": 7
       }
     ],
     "string": "레버와 함께\n비즈니스 성공의 꿈을 꾸는 파트너스"
@@ -52,12 +81,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 256,
-    "x": 250,
-    "y": 1133
+    "height": 72,
+    "width": 226,
+    "x": 375,
+    "y": 954
   },
-  "glyphBounds": "{{1, 6}, {254, 44}}",
+  "glyphBounds": "{{1, 7}, {225, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -107,7 +136,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0DEBC822-25BF-4129-A429-6F95D9AB10CB",
+    "do_objectID": "F620AE92-21E4-4801-981B-6E08B96D77CF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,16 +159,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansCJKkr-Regular",
-            "size": 18
+            "name": "NotoSansCJKkr-Bold",
+            "size": 24
           }
         },
         "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 27,
-          "minimumLineHeight": 27
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
         },
         "textStyleVerticalAlignmentKey": 0
       },

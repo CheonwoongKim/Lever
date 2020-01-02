@@ -236,7 +236,7 @@
         "location": 52
       }
     ],
-    "string": "기존 어렵기만 했던 구글, 페이스북, 네이버 광고\n이제 운영 부담은 Down / 광고 성과는 UP"
+    "string": "기존 어렵기만 했던 구글, 페이스북, 네이버 광고 이제 운영 부담은 Down / 광고 성과는 UP"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -255,12 +255,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 258,
-    "x": 263,
-    "y": 545
+    "height": 24,
+    "width": 490,
+    "x": 715,
+    "y": 711
   },
-  "glyphBounds": "{{0, 6}, {258, 39}}",
+  "glyphBounds": "{{0, 6}, {489, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

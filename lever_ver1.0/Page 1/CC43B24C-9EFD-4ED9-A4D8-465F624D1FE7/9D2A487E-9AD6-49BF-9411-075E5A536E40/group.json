@@ -42,8 +42,8 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Screen Shot 2019-12-30 at 6.46.00 PM",
-  "nameIsFixed": false,
+  "name": "maps",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

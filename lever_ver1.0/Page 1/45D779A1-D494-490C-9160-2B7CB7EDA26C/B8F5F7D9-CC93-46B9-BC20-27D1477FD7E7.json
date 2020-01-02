@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "레버와 함께\n비즈니스 성공의 꿈을 꾸는 파트너스"
+    "string": "성과 기반 솔루션"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 256,
-    "x": 855,
-    "y": 1756
+    "height": 27,
+    "width": 120,
+    "x": 1009,
+    "y": 1427
   },
-  "glyphBounds": "{{1, 6}, {254, 44}}",
+  "glyphBounds": "{{0, 6}, {119, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "레버와 함께 비즈니스 성공의 꿈을 꾸 copy 2",
+  "name": "성과 기반 솔루션",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

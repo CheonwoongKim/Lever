@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 34,
+    "height": 35,
     "width": 26,
     "x": 1854,
     "y": 1006
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -42,8 +42,8 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Group 4",
-  "nameIsFixed": false,
+  "name": "btn_top",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.2509803921568627,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "담당자가 확인 후 빠르게 회신드리겠습니다."
+    "string": "베타 기간 내 별도 광고 운영 수수료 면제"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 273,
-    "x": 255,
-    "y": 251
+    "width": 250,
+    "x": 317,
+    "y": 120
   },
-  "glyphBounds": "{{1, 8}, {271, 16}}",
+  "glyphBounds": "{{1, 8}, {247, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "담당자가 확인 후 빠르게 회신드리겠습",
+  "name": "베타 기간 내 별도 광고 운영 수수료",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

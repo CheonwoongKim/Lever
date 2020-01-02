@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.2509803921568627,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKkr-Bold",
-              "size": 96
+              "size": 88
             }
           },
           "kerning": -1,
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "재직 중인"
+    "string": "저는"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 100,
-    "width": 371,
-    "x": 960,
-    "y": 321
+    "width": 160,
+    "x": 255,
+    "y": 264
   },
-  "glyphBounds": "{{2, 9}, {361, 90}}",
+  "glyphBounds": "{{2, 13}, {156, 82}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "재직 중인",
+  "name": "저는",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -123,15 +123,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKkr-Bold",
-            "size": 96
+            "size": 88
           }
         },
         "kerning": -1,

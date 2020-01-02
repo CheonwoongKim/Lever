@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 123,
+    "height": 112,
     "width": 16,
     "x": 1864,
-    "y": 479
+    "y": 502
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,24 +30,24 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "F05D1086-7F14-4C98-BF9E-F71800ACF03C"
-    },
-    {
-      "class": "group",
-      "id": "DAF2F42F-C375-4B11-812E-E948D9FC1D00"
+      "id": "26A24505-529E-4875-B899-DDE03FBF7357"
     },
     {
       "class": "group",
       "id": "5B706AB7-8AE0-4611-9C67-EA4E9739AF2D"
+    },
+    {
+      "class": "group",
+      "id": "0B33506E-C6B5-4635-97AE-EC0838CFCD1B"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "menu_social",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

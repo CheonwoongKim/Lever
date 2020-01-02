@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7118999094202898,
-            "green": 0.7118999094202898,
-            "red": 0.7118999094202898
+            "blue": 0.7411764705882353,
+            "green": 0.7098039215686275,
+            "red": 0.6784313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,7 +20,7 @@
               "size": 40
             }
           },
-          "kerning": -0.4166666666666666,
+          "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "예) 홍길동"
+    "string": "회사명"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 60,
-    "width": 168,
-    "x": 1407,
-    "y": 351
+    "width": 109,
+    "x": 512,
+    "y": 288
   },
-  "glyphBounds": "{{2, 13}, {164, 42}}",
+  "glyphBounds": "{{2, 14}, {103, 36}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "예) 홍길동",
+  "name": "회사명",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7118999094202898,
-          "green": 0.7118999094202898,
-          "red": 0.7118999094202898
+          "blue": 0.7411764705882353,
+          "green": 0.7098039215686275,
+          "red": 0.6784313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -134,7 +134,7 @@
             "size": 40
           }
         },
-        "kerning": -0.4166666666666666,
+        "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
