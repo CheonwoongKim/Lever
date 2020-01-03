@@ -217,7 +217,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/27df07e06ee7860d5d608a6c6dd9fe8b8237b363.png",
+          "_ref": "images/804c48fec868e9fb888cbca844b7ba8c249b6842.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -234,5 +234,16 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Beach",
+        "icon": "sun",
+        "index": 0,
+        "mode": "unsplash",
+        "title": "Beach"
+      }
+    }
   }
 }

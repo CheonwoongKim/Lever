@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "레버와 함께\n비즈니스 성공의 꿈을 꾸는 파트너스"
+    "string": "데이터 기반으로 착실하게 다져온\n애드테크의 기술력"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 226,
+    "width": 209,
     "x": 1337,
     "y": 2295
   },
-  "glyphBounds": "{{1, 5}, {225, 40}}",
+  "glyphBounds": "{{1, 5}, {207, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "레버와 함께 비즈니스 성공의 꿈을 꾸 copy 4",
+  "name": "데이터 기반으로 착실하게 다져온 애드",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

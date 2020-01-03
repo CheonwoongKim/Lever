@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "당신만을 위한 레버 베타 서비스 초대장"
+    "string": "성공의 로켓 탑승을 위한 베타 서비스 초대장"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 212,
-    "x": 854,
+    "width": 239,
+    "x": 840,
     "y": 649
   },
-  "glyphBounds": "{{1, 8}, {211, 14}}",
+  "glyphBounds": "{{0, 8}, {239, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "당신만을 위한 레버 베타 서비스 초대",
+  "name": "성공의 로켓 탑승을 위한 베타 서비스",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -32,7 +32,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Rectangle Copy",
+  "name": "Mask",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
@@ -217,7 +217,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/d14f2e5a29a728757bc885d33262635c2b7baef5.png",
+          "_ref": "images/c2de4f148255b822a19c80001db0e5291deae626.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -234,5 +234,16 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "category": "Beach",
+        "icon": "sun",
+        "index": 0,
+        "mode": "unsplash",
+        "title": "Beach"
+      }
+    }
   }
 }

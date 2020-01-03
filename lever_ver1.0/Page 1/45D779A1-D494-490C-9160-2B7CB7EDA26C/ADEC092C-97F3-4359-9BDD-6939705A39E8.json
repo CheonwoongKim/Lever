@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "검색 광고"
+    "string": "검색 광고(예정)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 45,
-    "x": 377,
-    "y": 3134
+    "width": 73,
+    "x": 362,
+    "y": 3142
   },
-  "glyphBounds": "{{0, 4}, {45, 11}}",
+  "glyphBounds": "{{0, 4}, {72, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "검색 광고",
+  "name": "검색 광고(예정)",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

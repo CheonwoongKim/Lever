@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "레버와 함께\n비즈니스 성공의 꿈을 꾸는 파트너스"
+    "string": "지속적인 성장 원동력 업계에서\n인정받은 광고 운영 노하우"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 226,
+    "width": 195,
     "x": 975,
     "y": 2295
   },
-  "glyphBounds": "{{1, 5}, {225, 40}}",
+  "glyphBounds": "{{0, 5}, {193, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "레버와 함께 비즈니스 성공의 꿈을 꾸 copy 3",
+  "name": "지속적인 성장 원동력 업계에서 인정받",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
