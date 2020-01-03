@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKkr-Regular",
-              "size": 14
+              "size": 13
             }
           },
           "kerning": -0.5,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 90,
-    "x": 380,
-    "y": 2381
+    "width": 83,
+    "x": 334,
+    "y": 2468
   },
-  "glyphBounds": "{{1, 7}, {87, 14}}",
+  "glyphBounds": "{{1, 7}, {81, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKkr-Regular",
-            "size": 14
+            "size": 13
           }
         },
         "kerning": -0.5,

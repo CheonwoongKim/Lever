@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.5882352941176471,
+            "green": 0.5568627450980392,
+            "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 67,
+        "length": 50,
         "location": 0
       }
     ],
-    "string": "온라인 광고를 하기 위해 많은 학습 시간이 필요했던 것을 해소하기 위해 레버는 많은 학습 없이 쉽게 이용할 수 있습니다."
+    "string": "여러 매체의 광고 운영부터 분석까지 이제 찾아 헤매지 말고,\n레버로 통합 운영/분석하세요."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,10 +54,10 @@
     "constrainProportions": false,
     "height": 48,
     "width": 350,
-    "x": 375,
-    "y": 5440
+    "x": 295,
+    "y": 5503
   },
-  "glyphBounds": "{{0, 6}, {346, 38}}",
+  "glyphBounds": "{{0, 6}, {322, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "온라인 광고를 하기 위해 많은 학습 copy 3",
+  "name": "여러 매체의 광고 운영부터 분석까지",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.5882352941176471,
+          "green": 0.5568627450980392,
+          "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

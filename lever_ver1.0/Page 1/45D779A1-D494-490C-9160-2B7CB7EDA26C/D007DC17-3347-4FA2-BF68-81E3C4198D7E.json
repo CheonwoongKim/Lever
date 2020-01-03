@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.2509803921568627,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,7 +20,7 @@
               "size": 40
             }
           },
-          "kerning": -2,
+          "kerning": -1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 120,
-    "width": 586,
+    "width": 606,
     "x": 1009,
-    "y": 1486
+    "y": 1556
   },
-  "glyphBounds": "{{1, 13}, {582, 98}}",
+  "glyphBounds": "{{1, 13}, {601, 98}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -134,7 +134,7 @@
             "size": 40
           }
         },
-        "kerning": -2,
+        "kerning": -1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.5882352941176471,
+            "green": 0.5568627450980392,
+            "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 101,
+        "length": 100,
         "location": 0
       }
     ],
-    "string": "그동안 어렵게 구글 광고 설정 완료하면 페이스북, 네이버 등…\n하나도 어려운데 여러 매체를 운영, 관리하다 보니 힘들었던 시간,\n이제 디지털 광고는 레버에 맡기고 본업에 집중하세요."
+    "string": "그동안 어렵게 구글 광고 설정 완료하면 페이스북, 네이버 등\n하나도 어려운데 여러 매체를 운영, 관리하다 보니 힘들었던 시간,\n이제 디지털 광고는 레버에 맡기고 본업에 집중하세요."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "height": 78,
     "width": 350,
     "x": 255,
-    "y": 2879
+    "y": 2912
   },
   "glyphBounds": "{{0, 7}, {350, 66}}",
   "hasClippingMask": false,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "124F8A9B-19FA-4CA1-8EBF-F0E46A8A7CCF",
+    "do_objectID": "5FE32D52-BDE7-4B38-8897-9EB371A658C1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.5882352941176471,
+          "green": 0.5568627450980392,
+          "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

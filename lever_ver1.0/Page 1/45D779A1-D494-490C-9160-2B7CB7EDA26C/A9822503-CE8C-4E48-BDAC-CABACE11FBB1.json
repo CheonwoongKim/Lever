@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.5882352941176471,
+            "green": 0.5568627450980392,
+            "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 132,
+        "length": 133,
         "location": 0
       }
     ],
-    "string": "최적의 온라인 광고 성과를 내기 위한 다년간의 광고 운영 경험과\n애드테크 기반의 머신러닝을 통한 자동화된 솔루션으로\n디지털 마케팅의 어려움과 성과가 제대로 나오지 않았던 기업을 도와\n최상의 광고 성과를 만들어 기업의 가치를 성장시킵니다."
+    "string": "최적의 온라인 광고 성과를 내기 위한 다년간의 광고 운영 경험과\n애드테크 기반의 머신러닝을 통한 자동화된 솔루션으로,\n디지털 마케팅의 어려움과 성과가 제대로 나오지 않았던 기업을 도와\n최상의 광고 성과를 만들어 기업의 가치를 성장시킵니다."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "height": 104,
     "width": 368,
     "x": 1009,
-    "y": 1630
+    "y": 1708
   },
   "glyphBounds": "{{0, 7}, {368, 92}}",
   "hasClippingMask": false,
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.5882352941176471,
+          "green": 0.5568627450980392,
+          "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

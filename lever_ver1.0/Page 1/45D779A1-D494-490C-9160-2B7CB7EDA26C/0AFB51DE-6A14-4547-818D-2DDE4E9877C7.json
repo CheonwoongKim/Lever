@@ -24,16 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 61,
         "location": 0
       }
     ],
-    "string": "기대하고 시작한 온라인 광고인데 투자한 예산 대비 성과가 제대로 나오지 않습니다. 어떻게 해야 할까요?"
+    "string": "“ 기대하고 시작한 온라인 광고인데 투자한 예산 대비 성과가 제대로\n나오지 않습니다. 어떻게 해야 할까요? ”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 350,
-    "x": 887,
+    "height": 48,
+    "width": 426,
+    "x": 879,
     "y": 4106
   },
-  "glyphBounds": "{{0, 7}, {343, 40}}",
+  "glyphBounds": "{{0, 6}, {364, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "기대하고 시작한 온라인 광고인데 투자",
+  "name": "“ 기대하고 시작한 온라인 광고인데",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7EECF466-5E3F-4BA2-85CE-23FF49B04F0D",
+    "do_objectID": "F3732FB5-493E-40CB-9EEF-A5463C9C0B41",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -138,8 +138,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

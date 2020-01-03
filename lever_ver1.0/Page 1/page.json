@@ -57,7 +57,15 @@
     },
     {
       "class": "artboard",
+      "id": "B1986F90-F8EA-444C-9FE8-093D5BDE6CAE"
+    },
+    {
+      "class": "artboard",
       "id": "45D779A1-D494-490C-9160-2B7CB7EDA26C"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F1ADA5E-CD8C-4087-BB44-0F2E84D00C02"
     }
   ],
   "maintainScrollPosition": false,

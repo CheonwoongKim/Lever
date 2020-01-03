@@ -24,16 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 50,
         "location": 0
       }
     ],
-    "string": "기대하고 시작한 온라인 광고인데 투자한 예산 대비 성과가 제대로 나오지 않습니다. 어떻게 해야 할까요?"
+    "string": "“ 물어볼 사람도 없고 어디에 물어봐야 하는지 모르겠습니다.\n도움이 필요합니다. ㅠ.ㅠ ”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
+    "height": 48,
     "width": 350,
-    "x": 895,
-    "y": 4370
+    "x": 879,
+    "y": 4378
   },
-  "glyphBounds": "{{0, 7}, {343, 40}}",
+  "glyphBounds": "{{0, 6}, {325, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "기대하고 시작한 온라인 광고인데 투자 copy",
+  "name": "“ 물어볼 사람도 없고 어디에 물어봐",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24E4159F-94F6-40B1-B1CC-54DEE21704D9",
+    "do_objectID": "C043EA5B-EECC-4AAF-AC58-8A3B09607B97",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -138,8 +138,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

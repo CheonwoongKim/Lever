@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NotoSansCJKkr-Regular",
-              "size": 14
+              "name": "NotoSansCJKkr-Bold",
+              "size": 20
             }
           },
           "kerning": -0.5,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 117,
-    "x": 345,
-    "y": 2254
+    "width": 170,
+    "x": 295,
+    "y": 2325
   },
-  "glyphBounds": "{{1, 7}, {115, 14}}",
+  "glyphBounds": "{{1, 4}, {167, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -130,8 +130,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NotoSansCJKkr-Regular",
-            "size": 14
+            "name": "NotoSansCJKkr-Bold",
+            "size": 20
           }
         },
         "kerning": -0.5,

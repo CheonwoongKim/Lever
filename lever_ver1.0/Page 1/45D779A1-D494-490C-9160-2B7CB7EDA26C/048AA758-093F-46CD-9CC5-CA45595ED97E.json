@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 44,
     "width": 44,
-    "x": 1605,
-    "y": 4192
+    "x": 1117,
+    "y": 4218
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -99,56 +99,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -163,7 +113,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "600F53A9-808D-4E41-AF53-B44E31A53D68",
+    "do_objectID": "9A82C807-D7F6-474F-8868-2F2C8B644376",
     "endMarkerType": 0,
     "fills": [
       {
@@ -214,7 +164,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/b7e47c82688797ee0cfffc5f130c03ea3582388f.png",
+          "_ref": "images/d4925f606226d14ad7f137d9241d2c64a53bc4f8.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -228,6 +178,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 32,
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 16,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1

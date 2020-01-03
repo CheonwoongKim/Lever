@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKkr-Regular",
-              "size": 18
+              "size": 16
             }
           },
           "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 27,
-            "minimumLineHeight": 27
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
-    "width": 256,
+    "height": 48,
+    "width": 226,
     "x": 1337,
-    "y": 2282
+    "y": 2360
   },
-  "glyphBounds": "{{1, 6}, {254, 44}}",
+  "glyphBounds": "{{1, 5}, {225, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,15 +131,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKkr-Regular",
-            "size": 18
+            "size": 16
           }
         },
         "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 27,
-          "minimumLineHeight": 27
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

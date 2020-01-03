@@ -24,16 +24,16 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 74,
         "location": 0
       }
     ],
-    "string": "기대하고 시작한 온라인 광고인데 투자한 예산 대비 성과가 제대로 나오지 않습니다. 어떻게 해야 할까요?"
+    "string": "“ 태그, 픽셀을 설치하려고 해도 어떻게 해야 하는지 모르겠습니다.\n설명을 찾아봤지만 직접 설치하기가 어려워 포기하고 말았습니다. ”"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 350,
-    "x": 1225,
-    "y": 4238
+    "height": 48,
+    "width": 410,
+    "x": 1209,
+    "y": 4242
   },
-  "glyphBounds": "{{0, 7}, {343, 40}}",
+  "glyphBounds": "{{0, 6}, {362, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "기대하고 시작한 온라인 광고인데 투자 copy 2",
+  "name": "“ 태그, 픽셀을 설치하려고 해도 어",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "87086CA7-063D-428F-B6F9-41466BFB0729",
+    "do_objectID": "9D5D6C93-5C63-44A7-BDAF-2A4F2682D01A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -138,8 +138,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },

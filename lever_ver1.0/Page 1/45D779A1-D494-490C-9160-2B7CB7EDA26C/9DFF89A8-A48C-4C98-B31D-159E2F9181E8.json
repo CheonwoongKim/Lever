@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "신청자 중 선착순으로 레버를 수수료 없이 이용"
+    "string": "레버를 수수료 없이 이용"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 327,
-    "x": 798,
-    "y": 345
+    "width": 172,
+    "x": 255,
+    "y": 260
   },
-  "glyphBounds": "{{0, 7}, {327, 18}}",
+  "glyphBounds": "{{1, 7}, {171, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "신청자 중 선착순으로 레버를 수수료",
+  "name": "레버를 수수료 없이 이용",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

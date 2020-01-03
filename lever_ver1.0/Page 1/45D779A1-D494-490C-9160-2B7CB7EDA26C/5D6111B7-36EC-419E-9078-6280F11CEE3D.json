@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.5882352941176471,
+            "green": 0.5568627450980392,
+            "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 67,
+        "length": 57,
         "location": 0
       }
     ],
-    "string": "온라인 광고를 하기 위해 많은 학습 시간이 필요했던 것을 해소하기 위해 레버는 많은 학습 없이 쉽게 이용할 수 있습니다."
+    "string": "최적의 광고 운영 노하우를 알고리즘으로 최적화하여 매체 별\n최적화를 통한 최상의 성과를 만들어 냅니다."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 350,
-    "x": 375,
-    "y": 5285
+    "width": 330,
+    "x": 295,
+    "y": 5348
   },
-  "glyphBounds": "{{0, 6}, {346, 38}}",
+  "glyphBounds": "{{0, 6}, {328, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "온라인 광고를 하기 위해 많은 학습 copy 2",
+  "name": "최적의 광고 운영 노하우를 알고리즘으",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B03B0CF6-24C5-4B53-BB76-5569EC8D67C7",
+    "do_objectID": "60D68DB3-CC13-48FA-9368-B823567F4029",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.5882352941176471,
+          "green": 0.5568627450980392,
+          "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

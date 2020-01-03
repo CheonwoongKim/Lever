@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.5882352941176471,
+            "green": 0.5568627450980392,
+            "red": 0.5254901960784314
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 87,
+        "length": 98,
         "location": 0
       }
     ],
-    "string": "많은 기업이 광고 전환 추적을 위한 태그(픽셀) 설치가 어려워\n광고 성과를 확인하지 못해 제대로 디지털 광고를 할 수 없던 어려움을 레버가 도와드리겠습니다."
+    "string": "디지털 광고에서 성과 측정을 위한 태그(픽셀)는 매우 중요하지만,\n관련 지식이 부족하여 디지털 광고를 하면서도 성과 측정을 제대로 할 수 없었던어려움을 레버가 도와드리겠습니다."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 78,
-    "width": 416,
-    "x": 1009,
-    "y": 3924
+    "width": 430,
+    "x": 1011,
+    "y": 3916
   },
-  "glyphBounds": "{{0, 7}, {413, 66}}",
+  "glyphBounds": "{{0, 7}, {425, 66}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "많은 기업이 광고 전환 추적을 위한",
+  "name": "디지털 광고에서 성과 측정을 위한 태",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0F3CAB3F-FA4D-4E84-8459-D7736E4044D1",
+    "do_objectID": "456ECC4A-F8F3-4D2D-8A9F-608E484E99A0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.5882352941176471,
+          "green": 0.5568627450980392,
+          "red": 0.5254901960784314
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

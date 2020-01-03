@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DE9EC6A-FAEF-47C8-969A-E8CAAFE93D46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 113,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9F6D3ED5-72D1-4A39-AC2F-BA0796F85754"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D88E695-3683-47DA-853D-C630CC93F16A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4289F496-DDB9-44B7-B8A8-CCDB5285AF08"
+    },
+    {
+      "class": "shapePath",
+      "id": "0983CA18-5D52-4AF5-B42B-00415D7A9923"
+    },
+    {
+      "class": "shapePath",
+      "id": "036256B0-40C5-4F0C-9E61-32058D010E5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA81AA45-B80E-4B9F-926B-A544BD2B866E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26686244-22F7-43CF-9028-352940267CE9"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE48469A-C0D8-47BD-B776-5D94D2B6E388"
+    },
+    {
+      "class": "shapePath",
+      "id": "199E06D7-3A26-4E3F-BA1E-47D7D028A9B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "A1B4E927-B747-4E68-9FC6-7954E9227336"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F79CA55-7786-49F4-A132-7FF018D68847"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DE90EBA-6A8B-4FFD-8EFC-0744C0DB74F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "77A63650-E78B-49D2-AF0C-854F09E4B890"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "logo_sktelecom",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FAA80E08-AE8F-48D5-A053-68611BECFC1C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.2509803921568627,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,7 +20,7 @@
               "size": 40
             }
           },
-          "kerning": -2,
+          "kerning": -1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 120,
-    "width": 558,
+    "width": 578,
     "x": 255,
-    "y": 2735
+    "y": 2760
   },
-  "glyphBounds": "{{1, 13}, {557, 98}}",
+  "glyphBounds": "{{1, 13}, {576, 98}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "976783D4-FC57-4E3F-828C-9EED105DCB97",
+    "do_objectID": "C9A1828B-62AF-4915-B6B1-DEDD54695823",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,9 +123,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -134,7 +134,7 @@
             "size": 40
           }
         },
-        "kerning": -2,
+        "kerning": -1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
