@@ -9,31 +9,31 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5882352941176471,
-            "green": 0.5568627450980392,
-            "red": 0.5254901960784314
+            "blue": 0.7411764705882353,
+            "green": 0.7098039215686275,
+            "red": 0.6784313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "NotoSansCJKkr-Regular",
-              "size": 14
+              "size": 12
             }
           },
           "kerning": -0.5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 21,
-            "minimumLineHeight": 21
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "업데이트 예정"
+    "string": "추후 매체 추가 예정"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 77,
-    "x": 545,
-    "y": 3162
+    "height": 18,
+    "width": 91,
+    "x": 538,
+    "y": 3134
   },
-  "glyphBounds": "{{0, 4}, {76, 14}}",
+  "glyphBounds": "{{0, 4}, {90, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "업데이트 예정",
+  "name": "추후 매체 추가 예정",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2E60E19E-072F-4F75-952B-A67359444F50",
+    "do_objectID": "E6DDD3E8-7C64-47A2-B47D-2C02E989EBBE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,23 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5882352941176471,
-          "green": 0.5568627450980392,
-          "red": 0.5254901960784314
+          "blue": 0.7411764705882353,
+          "green": 0.7098039215686275,
+          "red": 0.6784313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "NotoSansCJKkr-Regular",
-            "size": 14
+            "size": 12
           }
         },
         "kerning": -0.5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 21,
-          "minimumLineHeight": 21
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },

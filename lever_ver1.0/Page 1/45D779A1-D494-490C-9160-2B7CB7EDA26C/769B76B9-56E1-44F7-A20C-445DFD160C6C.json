@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "디지털 광고 성과 측정을 위한\n간쳔 광고 전환 추적"
+    "string": "디지털 광고 성과 측정을 위한\n간편 광고 전환 추적"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "height": 120,
     "width": 462,
     "x": 1011,
-    "y": 3764
+    "y": 3699
   },
   "glyphBounds": "{{1, 13}, {461, 98}}",
   "hasClippingMask": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "디지털 광고 성과 측정을 위한 간쳔",
+  "name": "디지털 광고 성과 측정을 위한 간편",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

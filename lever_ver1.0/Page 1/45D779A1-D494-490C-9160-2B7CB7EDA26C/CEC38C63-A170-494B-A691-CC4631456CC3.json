@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1000,
-    "width": 829,
-    "x": 975,
+    "height": 1100,
+    "width": 1920,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -183,7 +183,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -195,9 +195,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.9902777648228296,
-                "red": 0.9844512195121952
+                "blue": 0.3019607843137255,
+                "green": 0.07450980392156865,
+                "red": 0.1882352941176471
               },
               "position": 0
             },
@@ -206,9 +206,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.9246455068131183,
-                "red": 0.856592987804878
+                "blue": 0.5803921568627451,
+                "green": 0.4,
+                "red": 0.2666666666666667
               },
               "position": 1
             }
